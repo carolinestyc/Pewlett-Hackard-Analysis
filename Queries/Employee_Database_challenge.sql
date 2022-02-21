@@ -57,3 +57,12 @@ AND (de.to_date = '9999-01-01')
 ORDER BY em.emp_no;
 
 SELECT * FROM mentorship_elibility;
+
+-- Mentorship by title
+SELECT COUNT(title), title 
+INTO retiring_group
+FROM mentorship_elibility 
+GROUP BY title
+ORDER BY COUNT(title) DESC;
+
+SELECT * FROM retiring_group;
