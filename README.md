@@ -9,6 +9,12 @@ Using relational data bases in PostgreSQL to combine and transform the data. Que
             
             Software: Visual Studio Code 1.64.2, pgAdmin4 6.4, & PostgreSQL
 ## Results
-PH has a huge number of employees, and it turns out a big percetnage of them are coming into reitrement age. Retirement age is defined as those born between 1952 and 1955 and we are including employees who are still with the company. 
+PH has a huge number of employees, and it turns out a big percetnage of them are coming into reitrement age. Retirement age is defined as those born between 1952 and 1955 and we are including employees who are still with the company. Currently a total of 72,458 employees.
+
+- As you can see in the image below, we have broken down retirement by title. Senior Engineers and Senior Staff collectively making up 50,842 retirees, over 70% of the total number of retirees.
+- Additionally, only 10,375 Engineers and Assistant Engineers are retiring, suggesting there will still be many left who can be promoted to fill in Senior positions instead of completely hiring outside of the organization.
+![retiring_by_title](https://user-images.githubusercontent.com/96352625/154891325-a05b18f0-8ca6-459f-8a73-114d90b73e44.png)
+
 - 
+
 ## Summary
