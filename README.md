@@ -17,5 +17,8 @@ PH has a huge number of employees, and it turns out a lot of them are coming int
 ![retiring_by_title](https://user-images.githubusercontent.com/96352625/154891325-a05b18f0-8ca6-459f-8a73-114d90b73e44.png)
 
 - There are also about 1,549 employees in retirement age that can serve as mentors to those not leaving the company. Those eligible are born between January 1, 1965 and December 31, 1965. They will help to transition through the Silver Tsunami.
+- As shown in the table below, we can also see by title the employees that are mentorship eligible. 569 of them are Senior Staff and 670 of them are either Engineers or Senior Engineers. This information will be helpful as they organize how many mentors are available across departments.
+
+![mentorship_by_title](https://user-images.githubusercontent.com/96352625/154893424-235b8617-8ce3-44fe-90fa-70d379522991.png)
 
 ## Summary
